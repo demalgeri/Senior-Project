@@ -28,6 +28,7 @@ prediction accuracy:
 
 • NN based models trained with both raw and handcrafted features
 
-Each of the .py files in this repository can be run seperately as their own project. 
-They are each named according to the different scenarios listed above.
+Each of the .py files in this repository can be run seperately. 
+They are each named according to the different scenarios listed above. 
+However, there is only one file for the last two scenarios.
 
